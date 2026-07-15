@@ -1,10 +1,6 @@
 # PSCs-passport-radar-charts
 Automated Python pipeline for multi-parameter degradation tracking and radar-chart visualization of perovskite solar cells across discrete time-step measurements under ISOS-D aging protocols.
 
-
-# Multi-Parameter Photovoltaic Aging Visualization Suite (Discrete Radar Mapping)
-An automated data processing and visualization pipeline written in Python, engineered specifically for multi-parameter degradation tracking of perovskite solar cells and stability evaluation following ISOS-D protocols.
-
 ## 1. Methodology & Theoretical Core
 Unlike traditional visualization tools that plot continuous degradation curves, this software suite is specifically designed to analyze and map performance footprints across **discrete time-step measurements** (e.g., specific aging intervals such as 0 h, 24 h, 168 h, etc.). 
 To maintain a strict and intuitive geometric layout—where any spatial contraction toward the radar origin directly correlates with physical device performance degradation—specialized physics-based normalization transformations are executed during the ingestion pipeline:
