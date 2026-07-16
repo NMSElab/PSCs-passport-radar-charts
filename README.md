@@ -64,6 +64,7 @@ python plot_radars.py
 This project is open-source software licensed under the **MIT License**. 
 
 If you use this visualization suite or the normalization methodology in your research, please include the corresponding code availability DOI citation within your manuscript's
+https://doi.org/10.5281/zenodo.21373415
 
 
 
